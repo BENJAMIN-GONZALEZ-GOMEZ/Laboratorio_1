@@ -1,0 +1,37 @@
+
+        .estilo-tabla{
+            border: 1px solid black;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+        }
+        .estilo-tabla img{
+            max-width: 100%;
+            max-height: 100%;
+        }
+        .titulo1{
+            text-align: center;
+        }
+        .titulo2{
+            text-align: center;
+        }
+        .imagenes1_2{
+            width: 100%;
+            margin: auto;
+            text-align: center;
+        }
+        .imagenes1_2 img{
+            max-width: 100%;
+            max-height: 100%;
+        }
+        .imagen3{
+            width: 1300px;
+            height: 487px;
+            margin: auto;
+            text-align: center;
+            padding-top: 30px;
+        }
+        .imagen3 img{
+            max-width: 100%;
+            max-height: 100%;
+        }
